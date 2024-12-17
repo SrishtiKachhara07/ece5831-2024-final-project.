@@ -172,8 +172,5 @@ The generated images will be saved in the **`results/`** directory.
 
 ---
 
-## **Contact**  
-For questions or suggestions, feel free to reach out to:  
-- **Name**: Kshitij Dhannoda 
-- **Email**: dkshitij@umich.edu  
+ 
  
